@@ -1,0 +1,50 @@
+.headerdiv {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+  background-color: rgba(255, 94, 0, 0.473);
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+  color: red;
+}
+
+.middlecontent {
+  font-size: 10px;
+  text-align: left;
+  margin-left: 100px;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.mediumtext {
+  font-size: 20px;
+}
+
+.centerpic {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.subdiv {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin: auto;
+  width: 400px;
+}
+
+.contentdiv {
+  display: inline-block;
+  margin: 10px;
+}
+
+.mainpagepic {
+  height: auto;
+  width: 40%;
+}
